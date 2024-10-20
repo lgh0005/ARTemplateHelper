@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Visitor
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5275103279741888947
+  m_GuidHigh: 2126426626860758703
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5232727409950601436
+      m_GuidHigh: 15810144949554525862
+    m_SerializedTextureGuid:
+      m_GuidLow: 15597304414939679651
+      m_GuidHigh: 10400761893198555531
+    m_Size: {x: 0.9, y: 0.6168874}
+    m_SpecifySize: 1
+    m_Name: visitor_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5337442913014181724
+      m_GuidHigh: 11818336753340128418
+    m_SerializedTextureGuid:
+      m_GuidLow: 266983987293345530
+      m_GuidHigh: 14989671197838045546
+    m_Size: {x: 0.5, y: 0.33412322}
+    m_SpecifySize: 1
+    m_Name: treespot_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5496905906591554609
+      m_GuidHigh: 15779055448881777285
+    m_SerializedTextureGuid:
+      m_GuidLow: 15471204604066596212
+      m_GuidHigh: 14160885645300778346
+    m_Size: {x: 0.5, y: 0.33333334}
+    m_SpecifySize: 1
+    m_Name: treespot_2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5317452336474309279
+      m_GuidHigh: 10877680688190401190
+    m_SerializedTextureGuid:
+      m_GuidLow: 18155331910050702957
+      m_GuidHigh: 5135856990090235067
+    m_Size: {x: 0.5, y: 0.34415585}
+    m_SpecifySize: 1
+    m_Name: treespot_3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5208158179899604392
+      m_GuidHigh: 11545481832343443390
+    m_SerializedTextureGuid:
+      m_GuidLow: 6517965517224147049
+      m_GuidHigh: 11195128501321776587
+    m_Size: {x: 0.6, y: 0.42587414}
+    m_SpecifySize: 1
+    m_Name: treespot_4
+    m_Texture: {fileID: 0}

@@ -1,9 +1,12 @@
 # ARTemplateHelper
 
-IndependenceHall.apk is in "IndependenceHall.z01, IndependenceHall.z02, IndependenceHall.zip", and In Asset Folder, You need to unzip Images : "Images.z01, Images.z02, Images.zip" which are images and video files for Unity projects.
+IndependenceHall.apk is in "IndependenceHall.z01, IndependenceHall.z02, IndependenceHall.zip", and In Asset Folder, You need to unzip Images : "Images.z01, Images.z02, Images.zip" which are images and video files for this Unity project.
+Phone resolution : 1080 x 2340
 
 ** 학교 과제용로 만든 앱으로, 다음 홈페이지의 사진을 사용하였습니다.
 https://i815.or.kr/2018/main.do
+
+
 
 Some gifs:
 
